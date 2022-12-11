@@ -1,10 +1,10 @@
 # My CV
 
-!(https://ic.wampi.ru/2022/12/11/2faHQKPaPRE.jpg)
+!(My-photo/2faHQKPaPRE.jpg)
 
-***Anton Lipatov***
+###Anton Lipatov###
 
-***Intern frontend developer***
+####Intern frontend developer####
 
 **Contacts:**
 ```
@@ -14,7 +14,7 @@ telegram: @lines14
 email: tamdobro@yandex.ru
 ```
 **About me:**
-*A professional medic by education, but I realized that the world of IT is more interesting and closer to me. I chose Python because everything can be done on it. I don't like to stand still and I'm constantly learning. Now i started to learn Javascript to become a full-stack developer! Practicing in freelance orders for process automation, parsing and systematization of data using Python scripts. working with SQL (writing and debugging queries) and Excel (at the formula level), CRM administration, remote Linux server administration. As a hobby, I am engaged in the administration of network equipment, software configuration, PC assembly and configuration, skiing, visiting bars, music festivals and concerts.*
+> *A professional medic by education, but I realized that the world of IT is more interesting and closer to me. I chose Python because everything can be done on it. I don't like to stand still and I'm constantly learning. Now i started to learn Javascript to become a full-stack developer! Practicing in freelance orders for process automation, parsing and systematization of data using Python scripts. working with SQL (writing and debugging queries) and Excel (at the formula level), CRM administration, remote Linux server administration. As a hobby, I am engaged in the administration of network equipment, software configuration, PC assembly and configuration, skiing, visiting bars, music festivals and concerts.*
 
 **Skills:**
 ```
