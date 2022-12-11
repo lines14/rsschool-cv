@@ -1,10 +1,10 @@
 # My CV
 
-!(My-photo/2faHQKPaPRE.jpg)
+![My CV photo](My-photo/2faHQKPaPRE.jpg)
 
-###Anton Lipatov###
+### Anton Lipatov
 
-####Intern frontend developer####
+#### Intern frontend developer
 
 **Contacts:**
 ```
