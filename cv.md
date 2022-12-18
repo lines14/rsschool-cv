@@ -82,6 +82,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
 
 **Completed projects:**
 
+> Dockerized encrypted echo-remote-server with client app https://github.com/lines14/practice/blob/main/TLS_server_socket_autostart_script.py
+
+> Remote PostgreSQL administration tools https://github.com/lines14/python_templates/blob/main/Psycopg2%20remote%20DB%20autoclose%20transactions%20connector.py
+
 > This CV
 
 **Education:**
