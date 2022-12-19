@@ -1,6 +1,6 @@
 # My CV
 
-![My CV photo](My-photo/2faHQKPaPRE.jpg)
+![My CV photo](assets/img/2faHQKPaPRE.jpg)
 
 ### Anton Lipatov
 
