@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="CV#3. CV. Cross-Check">
@@ -8,12 +9,15 @@
     <link rel="icon" href="./assets/ico/cv.ico" type="image/ico">
     <title>CV#3. CV. Cross-Check</title>
 </head>
+
 <body>
     <header class = "header">
-        <img src="./assets/img/2faHQKPaPRE.jpg" alt="My photo" width="324px" height="432px">
-        <p class="name">
+        <img class="img" src="./assets/img/2faHQKPaPRE.jpg" alt="My photo" width="324" height="432">
+
+        <h1 class="name">
             Anton
-        </p>
+        </h1>
+
         <p class="surname">
             Lipatov
         </p>
@@ -25,6 +29,7 @@
             <br>
             developer
         </p>
+
         <nav class="nav">
             <ul class="nav-list">
                 <li class="nav-item">
@@ -36,6 +41,8 @@
                 <li class="nav-item">
                     <a href="#3" class="nav-link">Code example</a>
                 </li>
+            </ul>
+            <ul class="nav-list-1">
                 <li class="nav-item">
                     <a href="#4" class="nav-link">Projects</a>
                 </li>
@@ -47,25 +54,28 @@
                 </li>
             </ul>
         </nav>
+
         <section class="contacts">
             <h3>
                 My contacts:
             </h3>
-            <p>
-                phone: +77478595164;
-                discord: Anton Lipatov (@lines14) lines14#6337
-                <br>
-                telegram: @lines14;
-                email: tamdobro@yandex.ru
-            </p>
+            <ul>
+                <li>phone: +77478595164;</li>
+                <li>discord: Anton Lipatov (@lines14) lines14#6337</li>
+                <li>telegram: @lines14;</li>
+                <li>email: tamdobro@yandex.ru</li>
+            </ul>
         </section>
     </header>
+
     <main class = "main">
         <div class="container">
             <section id="1" class="summary">
-                <h3 class="summary-h3">
+
+                <h2 class="summary-h3">
                     About me:
-                </h3>
+                </h2>
+
                 <p>
                     A professional medic by education, 
                     but I realized that the world of IT is more interesting and closer to me. 
@@ -77,10 +87,13 @@
                     As a hobby, I am engaged in the administration of network equipment, software configuration, PC assembly and configuration, skiing, visiting bars, music festivals and concerts.
                 </p>
             </section>
+
             <section id="2" class="skills">
-                <h3 class="skills-h3">
+
+                <h2 class="skills-h3">
                     My skills:
-                </h3>
+                </h2>
+
                 <ul class="skills-0">
                     <li class="skills-1">Python</li>
                     <li class="skills-1">Git</li>
@@ -103,13 +116,15 @@
                     <li class="skills-1">Literacy</li>
                     <li class="skills-1">Result orientation</li>
                 </ul>
+
             </section>
             <section id="3" class="code-example">
-                <h3 class="code-h3">
+
+                <h2 class="code-h3">
                     Example of my code (Python encrypted echo-server):
-                </h3>
-                <code>
-                    <pre>
+                </h2>
+
+                <pre>
             import ssl
             import socket
             import stun
@@ -145,13 +160,15 @@
                                     break
                                 ssock_version = f'{conn.version()} '
                                 conn.sendall(ssock_version.encode() + out.encode() + inn)
-                    </pre>
-                </code>
+                </pre>
             </section>
+
             <section id="4" class="projects">
-                <h3 class="projects-h3">
+
+                <h2 class="projects-h3">
                     My completed projects (links):
-                </h3>
+                </h2>
+
                 <ul>
                     <li class="github">
                         <a href="https://github.com/lines14/practice/blob/main/TLS_server_socket_autostart_script.py">
@@ -167,26 +184,31 @@
                     </li>
                 </ul>
             </section>
+
             <section id="5" class="education">
-                <h3 class="education-h3">
+
+                <h2 class="education-h3">
                     My education:
-                </h3>
+                </h2>
+
                 <ul class="education-0">
                     <li class="education-1">Russian State Medical University - family doctor</li>
                     <li class="education-1">Moscow Medical College No. 7 - paramedic</li>
                     <li class="education-1">Moscow aviation institute - python development, refresher course</li>
                 </ul>
             </section>
-            <section id="6" class="english">
+
+            <div id="6" class="english">
                 <p class="english-0">
                     My english level is:
                 </p>
                 <p class="english-3">
                     B1
                 </p>
-            </section>
+            </div>
         </div>
     </main>
+
     <footer class = "footer">
         <div class="container">
             <a href="https://rs.school/js/">
@@ -201,4 +223,5 @@
         </div>
     </footer>
 </body>
+
 </html>
